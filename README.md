@@ -2,11 +2,11 @@
 Home of decentralized fixed rate loans 
 
 ## List of repositories 
-** DeFi-Pulse-Adapters **
+**DeFi-Pulse-Adapters**
 Forked from ConcourseOpen/DeFi-Pulse-Adapters
 DeFi Pulse Adapters - Official Repository so DeFi projects can keep their metrics up to date on DeFi Pulse
 
-** defi-sdk **
+**defi-sdk**
 Forked from zeriontech/defi-sdk
 DeFi SDK Makes Money Lego Work
 
