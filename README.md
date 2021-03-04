@@ -2,6 +2,7 @@
 Home of decentralized fixed rate loans 
 
 ## List of repositories 
+
 **DeFi-Pulse-Adapters**
 
 Forked from ConcourseOpen/DeFi-Pulse-Adapters
@@ -14,11 +15,7 @@ Forked from zeriontech/defi-sdk
 
 DeFi SDK Makes Money Lego Work
 
-## Fork this repository and edit the files—that's it!
-
-This repository contains only a `gh-pages` branch and the basic website files: `index.html` and `style.css`.
-
-When you fork this site you'll have a copy on your account. You can click the file names and edit them directly from GitHub.com. And :boom: a site of your own at: yourusername.github.io/gh-pages-template.
+:boom: 
 
 **More**
 
@@ -51,9 +48,9 @@ _You can change the repository name to something more relevant to you in the Set
 
 ---
 
-### More Fun with Your Site
+### Todo
 
-- **Custom Domain:** You can add a `CNAME` file with just tne name of a domain you own and then [set up your DNS](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) to point to this repository's site.
+- **Custom Domain:** Add a `CNAME` file with just tne name of a domain you own and then [set up your DNS](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) to point to this repository's site.
 - **Jekyll Blog:** GitHub only serves static files on these sites so you can't put a server (PHP/Rails/Node) application here. You can however, use the static site generator, [Jekyll](http://jekyllrb.com), which is supported by GitHub pages, to generate a blog or site. There are Jekyll sites you can fork to start with, too, like [Poole](http://markdotto.com/2014/01/02/introducing-poole/).
 - **Editing:** You can add new files and edit files directly on GitHub.com. You can also copy your repository to your computer and edit there, then send it back to GitHub through the (free) GitHub desktop applications: [Windows](https://windows.github.com) or [Mac](https://mac.github.com).
 
